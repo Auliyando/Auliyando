@@ -18,13 +18,21 @@
 
 <br>
 
+# The Autonomous Nexus ⚙️
+
+## Description
+
 Welcome to my digital armory! I am a final-year undergraduate student majoring in Robotics and Artificial Intelligence Engineering at Airlangga University. My passion lies at the intersection of physical systems (mechatronics) and intelligent algorithms (AI).
 
-Currently, my research focuses on Deep Reinforcement Learning (DRL), specifically regarding the control of robotic manipulators within advanced simulation environments prior to real-world deployment.
+**The Autonomous Nexus** is the source code for my professional engineering portfolio. Built entirely from scratch using HTML, CSS, and JavaScript, this platform highlights my major expeditions and research in **Deep Reinforcement Learning (DRL)**, **Robotic Manipulators (UR5e)**, and **Autonomous Systems**.
 
----
+## Motivation
 
-### ⚔️ The Arsenal (Tech Stack)
+In the highly technical fields of Robotics and Artificial Intelligence, a standard paper resume often fails to capture the complexity and visual nature of the work—such as simulated robotic movements, control logic integrations, and hardware assemblies. 
+
+I built this platform to provide hiring managers, researchers, and academic professors with an interactive, visually engaging experience. By adopting an elegant, minimalist aesthetic, this project demonstrates not only my core engineering stack but also my attention to detail, presentation, and system architecture.
+
+## The Arsenal (Tech Stack)
 
 <details>
   <summary><b>🛠️ Programming & Development</b></summary>
@@ -37,4 +45,32 @@ Currently, my research focuses on Deep Reinforcement Learning (DRL), specificall
   <summary><b>🧠 AI & Machine Learning</b></summary>
   <br>
   <img src="https://img.shields.io/badge/Deep_Reinforcement_Learning-1A365D?style=flat-square&logo=openai&logoColor=D4AF37">
-  <img
+  <img src="https://img.shields.io/badge/PPO_Algorithm-1A365D?style=flat-square&logo=pytorch&logoColor=D4AF37">
+  <img src="https://img.shields.io/badge/Computer_Vision-1A365D?style=flat-square&logo=opencv&logoColor=D4AF37">
+</details>
+
+<details>
+  <summary><b>🤖 Robotics & Simulation</b></summary>
+  <br>
+  <img src="https://img.shields.io/badge/ROS_%2F_ROS_2-1A365D?style=flat-square&logo=ros&logoColor=D4AF37">
+  <img src="https://img.shields.io/badge/Isaac_Sim_%26_Isaac_Lab-1A365D?style=flat-square&logo=nvidia&logoColor=D4AF37">
+  <img src="https://img.shields.io/badge/Gazebo-1A365D?style=flat-square&logo=gazebo&logoColor=D4AF37">
+</details>
+
+<details>
+  <summary><b>⚙️ Mechanical & Control</b></summary>
+  <br>
+  <img src="https://img.shields.io/badge/3D_Mechanical_Design-1A365D?style=flat-square&logo=autodesk&logoColor=D4AF37">
+  <img src="https://img.shields.io/badge/PLC_Programming-1A365D?style=flat-square&logo=siemens&logoColor=D4AF37">
+</details>
+
+## Quick Start
+
+The most optimal way to experience this project is through the live deployment:
+🚀 **[Visit The Autonomous Nexus (aulr.tech)](https://aulr.tech)**
+
+If you wish to run the website locally to inspect the code structure:
+
+1. Clone the repository to your local machine:
+   ```bash
+   git clone [https://github.com/auliyando/your-repo-name.git](https://github.com/auliyando/your-repo-name.git)
