@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=1A365D&height=200&section=header&text=Muhammad%20Auliya%20Rahman&fontSize=40&fontColor=D4AF37&animation=fadeIn&fontAlignY=38&desc=Autonomous%20Systems%20Engineering&descAlignY=55&descAlign=50" alt="Header">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=1A365D&height=200&section=header&text=Muhammad%20Auliya%20Rahman&fontSize=40&fontColor=D4AF37&animation=fadeIn&fontAlignY=38&desc=Robotics%20and%20Machine%20Intelligence&descAlignY=55&descAlign=50" alt="Header">
 </div>
 
 <h3 align="center">Forging the future of autonomous systems.</h3>
