@@ -8,7 +8,7 @@
   <a href="https://www.linkedin.com/in/m-auliya-rahman/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-1A365D?style=for-the-badge&logo=linkedin&logoColor=D4AF37" alt="LinkedIn">
   </a>
-  <a href="https://aultheengineer.tech" target="_blank">
+  <a href="https://aulr.tech" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-D4AF37?style=for-the-badge&logo=googlechrome&logoColor=1A365D" alt="Portfolio">
   </a>
   <a href="mailto:rmuhammadauliya@gmail.com">
