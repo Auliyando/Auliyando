@@ -73,4 +73,4 @@ If you wish to run the website locally to inspect the code structure:
 
 1. Clone the repository to your local machine:
    ```bash
-   git clone [https://github.com/auliyando/your-repo-name.git](https://github.com/auliyando/your-repo-name.git)
+   git clone [https://github.com/Auliyando/Imperial_Engineer.git]
